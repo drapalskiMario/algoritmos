@@ -1,0 +1,7 @@
+Abordagem Recursiva Direta:  Exponencial (O(2^n)).
+
+Isso ocorre porque, para calcular um valor de Fibonacci usando a função recursiva, você precisa calcular os valores de Fibonacci para ambos os ramos da recursão (n-1 e n-2), levando a uma árvore de chamadas exponencialmente grande.
+
+Abordagem Top-Down (Com Memoização):  Linear (O(n)).
+
+A memoização garante que cada valor de Fibonacci seja calculado apenas uma vez e, em seguida, armazenado para uso posterior. Portanto, a função recursiva é chamada apenas uma vez para cada valor de n, resultando em uma complexidade linear.

@@ -1,4 +1,4 @@
-package src;
+package src.algoritmos;
 
 public class Fila {
     private Object[] queueArray;

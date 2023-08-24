@@ -1,4 +1,4 @@
-package src.lista_encadeada;
+package src.algoritmos.lista_encadeada;
 
 public class NoListaEncadeada {
     public Object data;
