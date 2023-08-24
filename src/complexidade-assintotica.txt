@@ -1,0 +1,46 @@
+Pilha
+     - push
+        - Tempo: O(1)
+        - Espaço: O(1)
+
+     - pop
+        - Tempo: O(1)
+        - Espaço: O(1)
+
+Fila
+    - enqueue
+        - Tempo: O(1)
+        - Espaço: O(1)
+
+    - dequeue
+        - Tempo: O(1)
+        - Espaço: O(1)
+
+    - rear
+        - Tempo: O(1)
+        - Espaço: O(1)
+
+    - front
+        - Tempo: O(1)
+        - Espaço: O(1)
+
+Lista encadedada
+    - push
+        - Tempo: O(1)
+        - Espaço: O(1)
+
+    - pop
+        - Tempo: O(1)
+        - Espaço: O(1)
+
+    - insert
+        - Tempo: O(n)
+        - Espaço: O(1)
+
+    - remove
+        - Tempo: O(n)
+        - Espaço: O(1)
+
+    - elementAt
+        - Tempo: O(n)
+        - Espaço: O(1)
